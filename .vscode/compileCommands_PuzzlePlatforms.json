@@ -1,0 +1,58 @@
+[
+	{
+		"file": "D:\\UnrealEngine5\\PuzzlePlatforms\\Source\\PuzzlePlatforms\\PuzzlePlatforms.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealEngine5\\PuzzlePlatforms\\.vscode\\compileCommands_PuzzlePlatforms\\PuzzlePlatforms.1.rsp"
+		],
+		"directory": "D:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealEngine5\\PuzzlePlatforms\\Source\\PuzzlePlatforms\\PuzzlePlatforms.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealEngine5\\PuzzlePlatforms\\.vscode\\compileCommands_PuzzlePlatforms\\PuzzlePlatforms.1.rsp"
+		],
+		"directory": "D:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealEngine5\\PuzzlePlatforms\\Source\\PuzzlePlatforms\\PuzzlePlatforms.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealEngine5\\PuzzlePlatforms\\.vscode\\compileCommands_PuzzlePlatforms\\PuzzlePlatforms.1.rsp"
+		],
+		"directory": "D:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealEngine5\\PuzzlePlatforms\\Source\\PuzzlePlatforms\\PuzzlePlatformsCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealEngine5\\PuzzlePlatforms\\.vscode\\compileCommands_PuzzlePlatforms\\PuzzlePlatforms.1.rsp"
+		],
+		"directory": "D:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealEngine5\\PuzzlePlatforms\\Source\\PuzzlePlatforms\\PuzzlePlatformsCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealEngine5\\PuzzlePlatforms\\.vscode\\compileCommands_PuzzlePlatforms\\PuzzlePlatforms.1.rsp"
+		],
+		"directory": "D:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealEngine5\\PuzzlePlatforms\\Source\\PuzzlePlatforms\\PuzzlePlatformsGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealEngine5\\PuzzlePlatforms\\.vscode\\compileCommands_PuzzlePlatforms\\PuzzlePlatforms.1.rsp"
+		],
+		"directory": "D:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealEngine5\\PuzzlePlatforms\\Source\\PuzzlePlatforms\\PuzzlePlatformsGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealEngine5\\PuzzlePlatforms\\.vscode\\compileCommands_PuzzlePlatforms\\PuzzlePlatforms.1.rsp"
+		],
+		"directory": "D:\\UE_5.3\\Engine\\Source"
+	}
+]
